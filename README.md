@@ -27,5 +27,5 @@ We get an accuracy of about 89%
 
 ## 🔗 References
 
-- **MNIST Dataset
-- **Neural Networks and Deep Learning
+- [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
