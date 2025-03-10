@@ -1,4 +1,8 @@
-# MNIST-image-classifier
+# MNIST Neural Network from Scratch
+
+#Overview
+
+This project implements a fully connected neural network from scratch (without using deep learning libraries like TensorFlow or PyTorch) to classify handwritten digits from the MNIST dataset. The goal is to understand the inner workings of neural networks, including forward propagation, backpropagation, and optimization.
 
 Accuracy:-
 
