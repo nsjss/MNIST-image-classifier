@@ -9,8 +9,15 @@ The goal is to gain a deep understanding of forward propagation, backpropagation
 # Dataset
 
 The MNIST dataset consists of 60,000 training images and 10,000 test images, each 28×28 pixels in grayscale, representing digits from 0 to 9.
+
 ![MNIST_image](https://github.com/user-attachments/assets/a1e43192-1cba-4694-bb8d-299ac3cdf428)
 
+## 🚀 Features
+- **Two-layer neural network** (input → hidden → output)
+- **Forward propagation** with sigmoid and softmax activation
+- **Backpropagation** using cross-entropy loss
+- **Gradient descent** for weight updates
+- **Accuracy evaluation** on test data
 
 Accuracy:-
 
