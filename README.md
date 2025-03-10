@@ -1,11 +1,15 @@
 # MNIST Neural Network from Scratch
 
-![MNIST_image](https://github.com/user-attachments/assets/a1e43192-1cba-4694-bb8d-299ac3cdf428)
-
 # Overview
 
-This project implements a fully connected neural network from scratch (without using deep learning libraries like TensorFlow or PyTorch) to classify handwritten digits from the MNIST dataset. The goal is to understand the inner workings of neural networks, including forward propagation, backpropagation, and optimization.
+This project implements a fully connected neural network from scratch (without using deep learning libraries like TensorFlow or PyTorch) to classify handwritten digits from the MNIST dataset.
 
+The goal is to gain a deep understanding of forward propagation, backpropagation, weight updates, and optimization techniques in neural networks.
+
+# Dataset
+
+The MNIST dataset consists of 60,000 training images and 10,000 test images, each 28×28 pixels in grayscale, representing digits from 0 to 9.
+![MNIST_image](https://github.com/user-attachments/assets/a1e43192-1cba-4694-bb8d-299ac3cdf428)
 
 
 Accuracy:-
